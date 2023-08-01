@@ -1,0 +1,169 @@
+header {
+    text-align: center;
+    background-color:#556dff;
+    padding:30px;
+    font-weight:bold;
+}
+section.first{
+    border:groove;
+}
+p.challenge{
+         color:black;
+        border-style:solid white;
+        font-weight:;
+        font-size:20px;
+       
+}
+p.hire{
+    color:white;
+    font-weight:bold;
+}
+b.desktop{
+    color:white;
+    border:2px solid #556dff;
+    background-color:#556dff;
+    padding:7px;
+    border-radius:30px;
+}
+a.hiring{
+    color:white;
+}
+b.new{
+    border:1px solid #2bd5ff;
+    color:#2bd5ff;
+    border-radius:6px;
+    padding:3px;
+    width:40%;
+    font-size:90%;
+}
+b.mobile{
+    color:gray;
+    border:2px solid lightgray;
+    background-color:lightgray;
+    padding:7px;
+    border-radius:30px;
+}
+b.free{
+    color:blue;
+    border:px solid lightblue;
+    border-radius:30px;
+    background-color:#95b7ff;
+    padding:7px;
+}
+b.css{
+    color:blue;
+}
+b.js{
+    color:#ff00b2;
+}
+b.html{#95b7ff
+    color:#40f5ff;
+}
+a.pro {
+    color: black;
+}
+a.demo{
+    border:50% solid red;
+    text-decoration:none;
+    border-radius:30px;
+    padding:10px;
+    font-weight:bold;
+    font-size:14px;
+    color:white;
+    background-color:red;
+}
+mark {
+    background-color:lightgray ;
+}
+h5 {
+    text-align: center;
+}
+.help {
+    border-style:solid;
+    padding:15px;
+    border-radius:5px;
+}
+.first {
+       border-radius:8px;
+    }
+.discord {
+    text-align: center;
+}
+a.style{
+    font-weight:bold;
+    font-size:15px;
+    text-decoration:none;
+    border:1px solid white;
+    border-radius:25px;
+    padding:8px;
+    color:#556dff;
+    background-color:white;
+ }
+ div.blue{
+     background-color: #556dff;
+     color:white;
+     border-radius:6px;
+     padding:40px;
+  
+ }
+big.cent {
+    text-align: center;
+}
+#front {
+    text-align: center;
+    text-decoration:none;
+    color:black;
+}
+.front{
+    color:black;
+    text-decoration:none;
+}
+.date{
+    font-size:30px;
+    color:#556dff;
+}
+#small{
+    color:black;
+    font-size:20px;
+}
+input[type=text] {
+    
+    padding:7px;    
+}
+input[type=submit]{
+    padding:7px;
+    border-radius:20px;
+    color:white;
+    background-color:red;
+    width:20%;
+    border-color:red;
+}
+table {
+    width:300px;
+    text-align: left;
+}
+td {
+    text-decoration:none;
+}
+a.bot{
+    text-decoration:none;
+    color: gray;
+    
+}
+a:hover{ 
+         border:2px dotted dodgerblue;
+ }
+a:active{
+    color:white;
+}
+a:visited{
+    color:white;
+    text-text-;
+}
+a.terms,a.cookie,a.privacy,a.license {
+color:gray;
+text-decoration:none;
+    }
+footer { 
+    text-align: center;
+}
